@@ -6,6 +6,7 @@ public class PPPP {
 		
 		
 		System.out.println("I am practicing");
+		System.out.println("This is my second practice");
 	}
 
 }
